@@ -3,3 +3,7 @@
 dist/*
 
 nix.flake.lock
+node_modules
+package-lock.json
+
+# Use pnpm-lock.yaml instead
